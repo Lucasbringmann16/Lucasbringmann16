@@ -1,7 +1,7 @@
 ## Opa! Eu sou o Lucas Bringmann
 
 - Aberto para oportunidades
-- 🌱 Estudando Java
+- 📖 Estudando Java
 - 😄 Pronouns: ele/dele
 
 <div align="center">
