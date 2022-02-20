@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Lucas Bringmann
 
-- Aberto para oportunidades
+- 📌 Aberto para oportunidades
 - 📖 Estudando Java
 - 😄 Pronouns: ele/dele
 
