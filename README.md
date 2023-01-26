@@ -1,8 +1,7 @@
 ## Opa! Eu sou o Lucas Bringmann
 
 - 📌 Aberto para oportunidades
-- 📖 Estudando Java
-- 😄 Pronouns: ele/dele
+- 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
 <div align="center">
   <a href="https://github.com/Lucasbringmann16">
