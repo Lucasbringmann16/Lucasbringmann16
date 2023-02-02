@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Lucas Bringmann
 
-- 🇧🇷
+- ![BrezilyaBrazilFlagGIF](https://user-images.githubusercontent.com/97703708/216384837-08a45bcc-244d-4490-bbcf-00b773c5c6c9.gif)
 - 📌 Aberto para oportunidades
 - 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
