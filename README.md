@@ -1,6 +1,5 @@
 ## Opa! Eu sou o Lucas Bringmann
 
-- <img src="https://img.icons8.com/fluency/48/null/brazil-circular.png"/>
 - 📌 Aberto para oportunidades
 - 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
@@ -10,6 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbringmann16&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img src="https://img.icons8.com/fluency/48/null/brazil-circular.png"/>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 </div>
 
