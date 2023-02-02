@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Lucas Bringmann
 
-- https://icons8.com.br/icon/N07GMBCvCLTY/brasil
+- https://drive.google.com/file/d/1qvdR74Qhb-NihHz03GFax8-293zT-sCC/view?usp=sharing
 - 📌 Aberto para oportunidades
 - 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
