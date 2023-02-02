@@ -1,5 +1,6 @@
 ## Opa! Eu sou o Lucas Bringmann
 
+- 🇧🇷
 - 📌 Aberto para oportunidades
 - 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
