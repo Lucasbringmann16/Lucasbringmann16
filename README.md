@@ -9,6 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasbringmann16&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.icons8.com/external-justicon-flat-justicon/64/null/external-brazil-flag-countrys-flags-justicon-flat-justicon.png"/>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.icons8.com/fluency/48/null/brazil.png"/>
   <img align="center" alt="Lucas-Java" height="30" width="40" <img src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/64/null/external-Brazil-brazil-carnival-(filled-line)-filled-line-andi-nur-abdillah.png"/>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
