@@ -14,8 +14,6 @@
 
 ##
 
-
- 
   ![Snake animation](https://github.com/Lucasbringmann16/Lucasbringmann16/blob/output/github-contribution-grid-snake.svg)
  
 </div>
