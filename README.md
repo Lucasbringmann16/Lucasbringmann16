@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Lucas Bringmann
 
-- https://drive.google.com/file/d/1qvdR74Qhb-NihHz03GFax8-293zT-sCC/view?usp=sharing
+- <img src="https://img.icons8.com/fluency/48/null/brazil-circular.png"/>
 - 📌 Aberto para oportunidades
 - 📖  Aluno | Análise e Desenvolvimento de Sistemas | Unisc
 
